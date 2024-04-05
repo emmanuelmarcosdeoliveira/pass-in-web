@@ -113,6 +113,7 @@ export function AttendeeList() {
             placeholder="Buscar participante..."
           />
         </div>
+        {search}
       </div>
 
       <Table>
@@ -203,6 +204,11 @@ export function AttendeeList() {
                     <ChevronsRight className="size-4" />{" "}
                   </IconButton>
                 </div>
+              </div>
+            </TableCell>
+          </tr>
+        </tfoot>
+      </Table>
               </div>
             </TableCell>
           </tr>
