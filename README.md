@@ -109,8 +109,10 @@ https://github.com/emmanuelmarcosdeoliveira/pass-in-web/blob/readme/src/assets/v
 <div align='center'>
  <h2>🛣️ Como Executar esse projeto ?</h2>
 </div>
+
 <br>
 <br>
+
 <div align="left" width="300"px>
 
 > 1- **Pré Requisitos:**<br> > **Ter instaldo em seu computador: Caso não tenha segue abaixo os link´s para instalação**<br>
@@ -123,23 +125,35 @@ https://github.com/emmanuelmarcosdeoliveira/pass-in-web/blob/readme/src/assets/v
 <div align="left">
 
 <h3>Configurando o Back-end</h3>
+</br>
+</br>
 
-1- **Fazer o **clone do repositório** deste projeto para o seu computador.**<br>
+1- **Fazer o **clone do repositório** deste projeto para o seu computador.**
+
+<br>
 
 > Caso não saiba o que é isso; **como fazer um clone de um Repositório no GitHub** vou deixar umn video aqui do [Willian Justen](https://willianjusten.com.br/) com o passo a passo de como fazer o clone de um Repositório do GitHub.
 > [Como fazer um clone de um repositório no GitHub](https://www.youtube.com/watch?v=WEPB5pDSEIg)
 
-> 2- <i>Faça o clone do Projeto utilizando esse comando<i><br>
+> 2- <i>Faça o clone do Projeto utilizando esse comando<i>
+
+<br>
 
 ```bash
- git clone git@github.com:rocketseat-education/nlw-unite-nodejs.git<br>
+ git clone git@github.com:rocketseat-education/nlw-unite-nodejs.git .
 ```
 
-> 3-<i>Instale as dependências utlizando esse comando no Terminal</i></br>
+<br>
+
+> 3-<i>Instale as dependências utlizando esse comando no Terminal</i>
+
+<br>
 
 ```bash
  npm i
 ```
+
+<br>
 
 > 4- <i>Utilize esse comando dentro do terminal do VsCode</i>
 
@@ -147,33 +161,49 @@ https://github.com/emmanuelmarcosdeoliveira/pass-in-web/blob/readme/src/assets/v
  npx prisma db seed
 ```
 
+<br>
+
 > 5-<i>Inicie o Servidor com o comando abaixo no Terminal do VsCode<i>
 
 ```bash
  npm run dev
 ```
 
+<br>
+
 </div>
-</br>
+
+<br>
 <br>
 
 <div align="left">
 <h3>Configurando o Front-End </h3>
 
+</br>
+</br>
+
 > 1- Faça o clone do projeto:
 > <i>Crie uma pasta dentro do seu computador e abra ela com o [VScode](https://code.visualstudio.com/)<br>
-> Dentro do Terminal do VsCode digite o seguinte comando:<i> <br>
+> Dentro do Terminal do VsCode digite o seguinte comando:<i>
+
+<br>
 
 ```bash
 git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 
 ```
 
-> 2- **Digite o seguinte comando (conforme abaixo:) dentro do terminal do [VScode](https://code.visualstudio.com/)** ><br> > <i>Esse comando faz uma verificação de todas as Dependências necessária para a execução do projeto e faz a instalação dessas dependências para que você possa executar esse projeto. ⌛Espere o processo ser concluido.</i><br>
+</br>
+
+> 2- **Digite o seguinte comando (conforme abaixo:) dentro do terminal do [VScode](https://code.visualstudio.com/)** ><br> > <i>Esse comando faz uma verificação de todas as Dependências necessária para a execução do projeto e faz a instalação dessas dependências para que você possa executar esse projeto. ⌛Espere o processo ser concluido.</i>
+
+<br>
 
 ```bash
  npm i
 ```
+
+<br>
 
 > 3- <i>Inicie o servidor de Desenvolvimento com o seguinte comando dentro do Terminal</i></br>
 
@@ -181,7 +211,10 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
  npm run dev
 ```
 
+<br>
+
 </div>
+
 <br>
 
 <div align="left">
@@ -192,6 +225,7 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 </div>
 
 <br>
+
 <h2>🗺️Deploy</h2>
 
 **Veja o Projeto; clique no link Abaixo:**
