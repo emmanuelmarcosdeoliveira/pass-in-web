@@ -10,12 +10,13 @@
 
 <div align="center">
 
-[Descrição](#--descrição-do-projeto-) |
-[Funcionalidades](#%EF%B8%8F-funcionalidades)|
-[Como executar esse projeto ?](#%EF%B8%8F-como-executar-esse-projeto-) |
-[Deploy](#%EF%B8%8Fdeploy) |
-[Referências](#-referências-) |
-[Autor](#-autor-)
+[Descrição](#-project-description-) |
+[Funcionalidades](#%EF%B8%8Ffeatures)|
+[Tecnologias](#technologies)
+[Instalação](##installation)
+[Deploy](#-web-project) |
+[Referências](#-references) |
+[Autor](#developed-by-)
 
 </div>
 <br>
@@ -116,6 +117,8 @@ https://github.com/emmanuelmarcosdeoliveira/pass-in-web/blob/readme/src/assets/v
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Profile views"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Profile views"/>
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Profile views"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Profile views"/>
+
 </div>
 
 <br>
@@ -278,7 +281,7 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
  </div>
 <div align="center">
 
-:memo: **Acesse:** [RockeSeat](https://www.rocketseat.com.br/)
+:memo: **Acesse:** [Rockeseat](https://www.rocketseat.com.br/)
 <br>
 <br>
 
@@ -292,13 +295,14 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 </br>
 
  <h2>👨🏻‍🦱Developed by </h2>
- <h3> <a href="https://oliveira-portifolio.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/-path?style=for-the-badge&logo=git&logoColor=%23fff&label=oliveiradevfullstack&labelColor=%23000&color=%23000">
- </a> </h3>
+ <a href="https://oliveira-portifolio.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/-path?style=for-the-badge&logo=git&logoColor=%23fff&label=oliveiradevfullstack&labelColor=%23000&color=%23000">
+ </a>
+
 <a href ="https://wa.me/5511968336094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href = "mailto:oliveira.devfullstack@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/oliveira-marcos-emmanuel?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUetG4s3ZT76Byt3XWdZ2Tg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<h3> 😁Obrigado por chegar até aqui!</h3>
+<h3> 😁Obrigado por chegar até aqui! </h3>
 &copy; Todos os Direitos Reservados
 </div>
 </br>
