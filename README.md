@@ -12,9 +12,11 @@
 </div>
 <br>
 <div  align="center" style="display: inline_block">
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/emmanuelmarcosdeoliveira/pass-in-web" />
 <img alt="Github License" src="https://img.shields.io/github/license/emmanuelmarcosdeoliveira/pass-in-web" />
+<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/emmanuelmarcosdeoliveira/pass-in-web" />
+<img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/version/emmanuelmarcosdeoliveira/pass-in-web" />
 <img alt="" src="https://img.shields.io/github/repo-size/emmanuelmarcosdeoliveira/pass-in-web" />
-<img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/emmanuelmarcosdeoliveira/pass-in-web" />
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/emmanuelmarcosdeoliveira/pass-in-web" />
 <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/emmanuelmarcosdeoliveira/pass-in-web" />
 <img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/pass-in-web" />
@@ -28,7 +30,7 @@
 <br>
 <br>
 <div align='left'>
-<h2> ✅ Descrição do Projeto: </h2> 
+<h2> ✅Project description: </h2> 
 <div>
 
 <br>
@@ -40,16 +42,18 @@
 <img src="./src/assets/images/pass.png" alt="Imagem Notebook"/>
 
 <div align="center">
-<h2> Video 📽️ de Demostração do Projeto</h2>
+
+<h2>📽️project demonstration video</h2>
 
 https://github.com/emmanuelmarcosdeoliveira/pass-in-web/blob/readme/src/assets/video/Untitled5.mp4
 
 </div>
+
 <br>
 <br>
 
 <div align='center'>
-  <h2>⚙️ Funcionalidades</h2>
+  <h2>⚙️Features</h2>
 <div>
 <div align="left">
 - Integre com API em Node.js<br>
@@ -58,39 +62,40 @@ https://github.com/emmanuelmarcosdeoliveira/pass-in-web/blob/readme/src/assets/v
 - Definir instruções de URL com parâmetros de consulta<br>
 </div>
 <br>
-<!-- 
+
+<!--
  <div align="center">
  <h2>📸 Imagens do Projeto versão web.</h2>
 <br>
-<br> 
-  
+<br>
+
 > :bulb: **Dica:** Algumas imagens da versão Desktop.
 
 <br>
 <br>
-<img src="./source/img-readme/home.png" width= 450px> 
+<img src="./source/img-readme/home.png" width= 450px>
 <img src="./source/img-readme/portfolio.png"  width= 450px>
-<img src="./source/img-readme/produtos.png"  width= 450px> 
-<img src="./source/img-readme/sobre.png" width= 450px> 
-<img src="./source/img-readme/contato.png" width= 450px>   
+<img src="./source/img-readme/produtos.png"  width= 450px>
+<img src="./source/img-readme/sobre.png" width= 450px>
+<img src="./source/img-readme/contato.png" width= 450px>
 </div>
 <div>
- <h2>📱 Imagens do Projeto verão Mobile.</h2>
+ <h2>📱Imagens do Projeto verão Mobile.</h2>
 <br>
  <br>
- 
+
  > :bulb: **Dica:** Algumas imagens da versão Mobile.
 
 <br>
 <br>
-<img src="./source/img-readme/mobile-home.png" width= "160x" height="320px"> 
-<img src="./source/img-readme/mobile-porfolio.png" width= "160px" height="320px"> 
-<img src="./source/img-readme/mobile-produtos.png" width= "160px" height="320px"> 
-<img src="./source/img-readme/mobile-sobre.png" width= "160px" height="320px"> 
+<img src="./source/img-readme/mobile-home.png" width= "160x" height="320px">
+<img src="./source/img-readme/mobile-porfolio.png" width= "160px" height="320px">
+<img src="./source/img-readme/mobile-produtos.png" width= "160px" height="320px">
+<img src="./source/img-readme/mobile-sobre.png" width= "160px" height="320px">
 </div> -->
 
 <div align='center'>
-<h2>🪛Tecnologias Utilizadas </h2>
+<h2>🪛Technologies</h2>
 </div>
 
 <div>
@@ -107,7 +112,7 @@ https://github.com/emmanuelmarcosdeoliveira/pass-in-web/blob/readme/src/assets/v
 </div>
 
 <div align='center'>
- <h2>🛣️ Como Executar esse projeto ?</h2>
+ <h2>💽Installation</h2>
 </div>
 
 <br>
@@ -124,7 +129,7 @@ https://github.com/emmanuelmarcosdeoliveira/pass-in-web/blob/readme/src/assets/v
 
 <div align="left">
 
-<h3>Configurando o Back-end</h3>
+<h3>Configure Back-end</h3>
 </br>
 </br>
 
@@ -177,7 +182,7 @@ https://github.com/emmanuelmarcosdeoliveira/pass-in-web/blob/readme/src/assets/v
 <br>
 
 <div align="left">
-<h3>Configurando o Front-End </h3>
+<h3>Configure Front-End </h3>
 
 </br>
 </br>
@@ -226,7 +231,7 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 
 <br>
 
-<h2>🗺️Deploy</h2>
+<h2>🌎 Web project</h2>
 
 **Veja o Projeto; clique no link Abaixo:**
 <br>
@@ -237,7 +242,7 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 <br>
 
 <div align='center'>
-<h2> 📚Referências </h2>
+<h2> 📚References</h2>
  </div>
 <div align="center">
 
@@ -248,21 +253,22 @@ git clone  https://github.com/emmanuelmarcosdeoliveira/pass-in-web.git .
 </div>
 <div align='center'>
 
-<h2>📕 License</h2>
+<h2>📕License</h2>
 <p>Released in 2024 This project is under the MIT license.</p>
 <p>Designed by Rockeseat and developed by OliveirafullStack💡🚀</p>
 </br>
 </br>
 
- <h2>👨🏻‍🦱 Autor </h2>
- <h3> <a href="https://oliveira-portifolio.vercel.app/">Oliveira DevFullStack</a> </h3>
-   <a href ="https://wa.me/5511968336094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href = "mailto:oliveira.devfullstack@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/oliveira-marcos-emmanuel?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUetG4s3ZT76Byt3XWdZ2Tg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <h2>👨🏻‍🦱Developed by </h2>
+ <h3> <a href="https://oliveira-portifolio.vercel.app/"<img alt="Static Badge" src="https://img.shields.io/badge/-path?style=for-the-badge&logo=git&logoColor=%23fff&label=oliveiradevfullstack&labelColor=%23000&color=%23000"></a>
 
-<br>  
+</a> </h3>
+<a href ="https://wa.me/5511968336094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href = "mailto:oliveira.devfullstack@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/oliveira-marcos-emmanuel?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUetG4s3ZT76Byt3XWdZ2Tg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<h3> 😁Obrigado por chegar até aqui!</h3>
 &copy; Todos os Direitos Reservados
-<h1> 😁Obrigado por chegar até aqui!</h1>
 </div>
 </br>
 </br>
