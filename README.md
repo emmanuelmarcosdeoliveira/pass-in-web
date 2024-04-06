@@ -11,9 +11,9 @@
 <div align="center">
 
 [Descrição](#-project-description-) |
-[Funcionalidades](#%EF%B8%8Ffeatures)|
-[Tecnologias](#technologies)
-[Instalação](##installation)
+[Funcionalidades](#%EF%B8%8Ffeatures) |
+[Tecnologias](#technologies) |
+[Instalação](#installation) |
 [Deploy](#-web-project) |
 [Referências](#-references) |
 [Autor](#developed-by-)
