@@ -37,12 +37,12 @@
 
 <br>
 <br>
-<img src="./src/images/disney-nootebook.png" alt="Imagem Notebook"/>
+<img src="./src/assets/images/pass.png" alt="Imagem Notebook"/>
 
 <div align="center">
 <h2> Video 📽️ de Demostração do Projeto</h2>
 
-https://github.com/emmanuelmarcosdeoliveira/disney_plus_clone/assets/116108389/f9de74c9-eb23-4429-a91d-c4f84c41add2
+https://github.com/emmanuelmarcosdeoliveira/pass-in-web/blob/readme/src/assets/video/Untitled5.mp4
 
 </div>
 <br>
