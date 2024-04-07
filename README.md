@@ -203,9 +203,14 @@ DATABASE_URL="file:./dev.db"
 <br>
 </div>
 
-> [!IMPORTANT]
+> IMPORTANTE<br>
 > ira aparecer no Terminal a seguinte mensagem:<br>
-> HTTP Server runnig!<br>
+```json
+HTTP Server runnig!
+```
+<br>
+
+> **Isso significa que o servidor já esta rodando, não feche o vsCode abra outra janela para seguir os proximos passos**
 
 <br>
 <br>
