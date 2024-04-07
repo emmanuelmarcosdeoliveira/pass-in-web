@@ -203,14 +203,14 @@ DATABASE_URL="file:./dev.db"
 <br>
 </div>
 
-\*\* ira aparecer no Terminal a seguinte mensagem:
-
-> HTTP Server runnig!
-
-**IMPORTANTE: DEIXE O SERVIDOR RODANDO NÃO FECHO O VSCODE**
+> [!IMPORTANT]
+> ira aparecer no Terminal a seguinte mensagem:<br>
+> HTTP Server runnig!<br>
 
 <br>
 <br>
+
+
 
 <div align="left">
 <h3>Configure Front-End </h3>
