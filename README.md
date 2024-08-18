@@ -163,7 +163,7 @@ https://github.com/emmanuelmarcosdeoliveira/pass-in-web/blob/readme/src/assets/v
 <br>
 
 ```bash
- git clone git@github.com:rocketseat-education/nlw-unite-nodejs.git .
+git clone https://github.com/emmanuelmarcosdeoliveira/passInWeb-BackEnd .
 ```
 
 <br>
